@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/7f1688cc-b9e0-4b0e-9514-f10d5fa6e88e)
 Blending Project Management, Data Analytics, and Business Strategy to Drive Results
 
 I am a Google-certified Project Manager and Data Analyst, with a background in Data Science, Electrical & Electronics Engineering, and an MBA. My expertise lies in leveraging data insights and project management skills to deliver impactful solutions that align with business objectives.
