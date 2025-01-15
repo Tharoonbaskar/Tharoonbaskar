@@ -17,13 +17,17 @@ Notable Projects:
 MBA Projects:
 
 1️⃣A STUDY ON IMPACT OF INFLUENCERS ON CUSTOMER BUYING BEHAVIOUR AT SUNDARAM HOME FINANCE LTD
+
 2️⃣Data analysis using Tableau on 'BANK LOAN MODELLING'
+
 3️⃣Data analysis using Tableau on 'EMPLOYEE ATTRITION'
 
 Engineering Projects:
 
 1️⃣Biometric Authentication for Bank Lockers
+
 2️⃣Temperature Monitoring and Alerting System
+
 3️⃣Face Mask Detection and Alerting System
 
 I have also published a paper on "Conversational Artificial Intelligence in E-Customer Relationship Management" which reflects my deep interest in technology and its application in business environments
@@ -31,7 +35,9 @@ I have also published a paper on "Conversational Artificial Intelligence in E-Cu
 Certifications & Expertise:
 
 1️⃣Google Professional Certificate in Project Management
+
 2️⃣Google Professional Certificate in Data Analytics
+
 3️⃣GUVI Certified Data Scientist
 
 My Vision to blend my technical skills with my MBA knowledge to drive data-informed business solutions, streamline operations, and contribute positively to organizational growth. I am always eager to learn, collaborate, and take on new challenges.
