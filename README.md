@@ -28,11 +28,11 @@ MBA Projects:
 
 Engineering Projects:
 
-1️⃣Biometric Authentication for Bank Lockers
+1️⃣Biometric Authentication for Bank Lockers- [Youtube Link](https://youtu.be/9G-uDjLCdwo?si=RCWxbysDJGHb3Cks)
 
-2️⃣Temperature Monitoring and Alerting System
+2️⃣Temperature Monitoring and Alerting System - [Youtube Link](https://youtu.be/mWTTBvsgmwI?si=brHsE0VF2DT5O6uy)
 
-3️⃣Face Mask Detection and Alerting System
+3️⃣Face Mask Detection and Alerting System - [Youtube Link](https://youtu.be/LlOysKX97gg?si=UKxnbrH4EGHTwM8O)
 
 I have also published a paper on "Conversational Artificial Intelligence in E-Customer Relationship Management" which reflects my deep interest in technology and its application in business environments
 
