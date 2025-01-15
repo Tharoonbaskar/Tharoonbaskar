@@ -1,4 +1,4 @@
-<h2 class="centered">Hey Greeting! 👋 I'm Tharoon Baskar</h2>
+<h2 align="centered">Hey Greeting! 👋 I'm Tharoon Baskar</h2>
 
 ![image](https://github.com/user-attachments/assets/e3186f9b-bf78-4d54-8a25-00561b10198b)
 
