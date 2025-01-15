@@ -24,7 +24,7 @@ MBA Projects:
 
 2️⃣Data analysis using Tableau on 'BANK LOAN MODELLING'
 
-3️⃣Data analysis using Tableau on 'EMPLOYEE ATTRITION'
+3️⃣Data analysis using Tableau on ['EMPLOYEE ATTRITION'](https://github.com/Tharoonbaskar/Employee-Attrition-Rate-Analysis)
 
 Engineering Projects:
 
