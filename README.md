@@ -38,11 +38,11 @@ I have also published a paper on "Conversational Artificial Intelligence in E-Cu
 
 Certifications & Expertise:
 
-1️⃣Google Professional Certificate in Project Management
+1️⃣[Google Professional Certificate in Project Management](https://www.linkedin.com/posts/tharoonb_google-project-management-activity-7279715428476579841-4_Mi?utm_source=share&utm_medium=member_desktop)
 
-2️⃣Google Professional Certificate in Data Analytics
+2️⃣[Google Professional Certificate in Data Analytics](https://www.linkedin.com/posts/tharoonb_google-advanced-data-analytics-activity-7273184883496095744-3BEx?utm_source=share&utm_medium=member_desktop)
 
-3️⃣GUVI Certified Data Scientist
+3️⃣[GUVI Certified Data Scientist](https://www.linkedin.com/posts/tharoonb_datascience-power-pandas-activity-7277178701669146624-Z9Gf?utm_source=share&utm_medium=member_desktop)
 
 My Vision to blend my technical skills with my MBA knowledge to drive data-informed business solutions, streamline operations, and contribute positively to organizational growth. I am always eager to learn, collaborate, and take on new challenges.
 
