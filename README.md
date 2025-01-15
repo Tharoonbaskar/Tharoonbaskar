@@ -22,7 +22,7 @@ MBA Projects:
 
 1️⃣A STUDY ON IMPACT OF INFLUENCERS ON CUSTOMER BUYING BEHAVIOUR AT SUNDARAM HOME FINANCE LTD
 
-2️⃣Data analysis using Tableau on 'BANK LOAN MODELLING'
+2️⃣Data analysis using Tableau on ['BANK LOAN MODELLING'](https://github.com/Tharoonbaskar/Bank-Loan-Modelling-Analysis-using-Tableau)
 
 3️⃣Data analysis using Tableau on ['EMPLOYEE ATTRITION RATE'](https://github.com/Tharoonbaskar/Employee-Attrition-Rate-Analysis)
 
