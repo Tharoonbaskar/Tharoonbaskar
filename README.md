@@ -1,4 +1,8 @@
+
+<h2 class="centered">Hey Greeting! 👋 I'm Tharoon Baskar</h2>
 ![image](https://github.com/user-attachments/assets/7f1688cc-b9e0-4b0e-9514-f10d5fa6e88e)
+
+
 
 💬 About Me:
 Blending Project Management, Data Analytics, and Business Strategy to Drive Results
