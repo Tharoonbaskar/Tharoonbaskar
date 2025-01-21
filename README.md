@@ -41,6 +41,7 @@ Certifications & Expertise:
 1️⃣[Google Professional Certificate in Project Management](https://www.linkedin.com/posts/tharoonbaskar_google-project-management-activity-7279715428476579841-r9zO?utm_source=share&utm_medium=member_android)
 
 2️⃣[Google Professional Certificate in Data Analytics](https://www.linkedin.com/posts/tharoonbaskar_google-advanced-data-analytics-activity-7273184883496095744-eeJF?utm_source=share&utm_medium=member_android)
+
 3️⃣[GUVI Certified Data Scientist](https://www.linkedin.com/posts/tharoonbaskar_datascience-power-pandas-activity-7277178701669146624-Fzxa?utm_source=share&utm_medium=member_android)
 
 My Vision to blend my technical skills with my MBA knowledge to drive data-informed business solutions, streamline operations, and contribute positively to organizational growth. I am always eager to learn, collaborate, and take on new challenges.
